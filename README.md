@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I am Ahmed Shalash and I am a full-stack developer 👋
 
-<!--
-**ifcodey/ifcodey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ I am a self-taught Software Engineer who fell in love with coding! I enjoy learning new technologies. I came from a non-traditional background but I got in university a C language and Electronic material.However, I studied Mechanical engineer in Birzeit University. I have experience in business, and graphic design.
 
-Here are some ideas to get you started:
+My interest in computer science started when I was in 10th grade. actually, at this age, I started to learn a language like VB and C# but unfortunately, I had a difficult understanding an OOP.in fact, I got to learn how to code a website like a blog by using PHP but also I have a problem to understand as well a coding at that age.so I focused on my school 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+After teaching myself to code for a year, I decided to join Coding Dojo bootcamp to gain the opportunity to work on dev teams, collaborate with others, and to help other students, I learned 3 full stacks within 3 months (MERN, JAVA, Python), and some projects using different technologies.
+
+Skills: JAVA, Python/Django/Flask, JS/Node JS / C# / C / HTML / CSS Bootstrap/MYSQL/POSTGRESQL
+
+- 🔭 I’m currently working on my special website
+- 🌱 I’m currently learning Java spring stack
+- 📫 How to reach me: email: ifcodey@gmail.com
+- 🔭 linkedIn: https://www.linkedin.com/in/ahmed-shalash-168482164/
+- 💬 Ask me about programming / Algorithm / Data structure
