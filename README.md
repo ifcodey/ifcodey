@@ -4,7 +4,7 @@
 
 My interest in computer science started when I was in 10th grade. actually, at this age, I started to learn a language like VB and C# but unfortunately, I had a difficult understanding an OOP.in fact, I got to learn how to code a website like a blog by using PHP but also I have a problem to understand as well a coding at that age.so I focused on my school 
 
-After teaching myself to code for a year, I decided to join Coding Dojo bootcamp to gain the opportunity to work on dev teams, collaborate with others, and to help other students, I learned 3 full stacks within 3 months (MERN, JAVA, Python), and some projects using different technologies.
+After years of trying to learn code, I decided to join Coding Dojo bootcamp to gain the opportunity to work in dev teams, collaborate with others, and to help other students, I learned 3 full stacks within 3 months (MERN, JAVA, Python), and some projects using different technologies.
 
 Skills: JAVA, Python/Django/Flask, JS/Node JS / C# / C / HTML / CSS Bootstrap/MYSQL/POSTGRESQL
 
