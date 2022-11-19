@@ -7,7 +7,41 @@ My interest in computer science started when I was in 10th grade. actually, at t
 After years of trying to learn code, I decided to join Coding Dojo bootcamp to gain the opportunity to work in dev teams, collaborate with others, and to help other students, I learned 3 full stacks within 3 months (MERN, JAVA, Python), and some projects using different technologies.
 
 Skills: JAVA, Python/Django/Flask, JS/Node JS / C# / C / HTML / CSS Bootstrap/MYSQL/POSTGRESQL
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<html>
+          <div> 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = 30px/>   
+                    
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = 30px/>
+                    
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  width = 30px/>
+          
+                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"  width = 30px/>
+          
+                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width = 30px/>
+          
+                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width = 30px/>
+          
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width = 30px/>
+          
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"  width = 30px/>
+          
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width = 30px/>
+          
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  width = 30px/>
+          
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width = 30px/>
+          
+                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width = 30px/>
+          
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"  width = 30px/>
+          
+                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  width = 30px/>
+          
+                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  width = 30px/>
+          
+          </div>   
+
+</html>
           
 
 - 🔭 I’m currently working on my special website
