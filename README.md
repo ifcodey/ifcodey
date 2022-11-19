@@ -28,8 +28,7 @@ Skills: JAVA, Python/Django/Flask, JS/Node JS / C# / C / HTML / CSS Bootstrap/MY
                      <span>___</span>
                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width = 30px/>
                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"  width = 30px/>
-                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"  width = 30px/>
-                   
+                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"  width = 30px/>    
           </div>   
 
 </html>
