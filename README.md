@@ -7,6 +7,8 @@ My interest in computer science started when I was in 10th grade. actually, at t
 After years of trying to learn code, I decided to join Coding Dojo bootcamp to gain the opportunity to work in dev teams, collaborate with others, and to help other students, I learned 3 full stacks within 3 months (MERN, JAVA, Python), and some projects using different technologies.
 
 Skills: JAVA, Python/Django/Flask, JS/Node JS / C# / C / HTML / CSS Bootstrap/MYSQL/POSTGRESQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+          
 
 - 🔭 I’m currently working on my special website
 - 🌱 I’m currently learning Java spring stack
