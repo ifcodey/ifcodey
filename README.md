@@ -102,11 +102,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"width="40" height="40"/>
     <span><p>*DATA STRUCTURE*</p></span>
-        1-STACK
-        2-QUEUE
-        3-LINKLIST 
-        4-TREE
-        5-GRAPH
+        1-STACK |
+        2-QUEUE |
+        3-LINKLIST |
+        4-TREE |
+        5-GRAPH |
     </span>
     </div>
 
