@@ -59,9 +59,10 @@
       /></a>
       <span> ] </span>
     </p>
+    <p>
     Skills: JAVA, Python/Django/Flask, JS/Node JS / C# / C / HTML / CSS
     Bootstrap/MYSQL/POSTGRESQL
-    
+    </p>
           <h3 align="left">Languages and Tools:</h3>
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
