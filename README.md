@@ -64,7 +64,6 @@
     Bootstrap/MYSQL/POSTGRESQL
     </p>
     <h3 align="left">Languages and Tools:</h3>
-    
     | Frontend  | Title |
     | ------------- | ------------- |
     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/>  | HTML  |
@@ -74,8 +73,6 @@
     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/>  | CSS  |
     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/>  | CSS  |
     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/>  | CSS  |
-
-
           <p></p>
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
