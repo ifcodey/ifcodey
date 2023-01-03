@@ -20,6 +20,21 @@
     others, and to help other students, I learned 3 full stacks within 3 months
     (MERN, JAVA, Python), and some projects using different technologies.
     </p>
+       <p>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=ifcodey&show_icons=true&locale=en&layout=compact"
+        alt="ifcodey"
+      />
+    </p>
+
+    <p>
+      &nbsp;<img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=ifcodey&show_icons=true&locale=en"
+        alt="ifcodey"
+      />
+    </p>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
       <span> [ </span
@@ -420,19 +435,5 @@
       </a>
     </p>
 
-    <p>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=ifcodey&show_icons=true&locale=en&layout=compact"
-        alt="ifcodey"
-      />
-    </p>
-
-    <p>
-      &nbsp;<img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ifcodey&show_icons=true&locale=en"
-        alt="ifcodey"
-      />
-    </p>
+ 
 </html>
