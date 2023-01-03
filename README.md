@@ -40,7 +40,7 @@
       ><a href="https://github.com/ifcodey" target="blank"
         ><img
           align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
           alt="ahmed shalash"
           height="30"
           width="40"
@@ -122,7 +122,7 @@
           />
           <p></p>
           <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+            src=""
             width="30px"
           />
           <img
