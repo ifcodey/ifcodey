@@ -69,6 +69,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     <span><p>*BACKEND PYTHON*</p></span>
@@ -81,6 +83,7 @@
     <span><p>*DATABASE*</p></span>    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     <span><p>*I HAVE BASIC KNOWLEDGMENT IN*</p></span>        
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"/>
@@ -88,6 +91,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40px"/>
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     <span><p>*IN FUTURE*</p></span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -95,166 +99,11 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>   
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"width="40" height="40"/>
     </span>
-        </div>
-        
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-          alt="java"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-          alt="mongodb"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a
-        href="https://www.microsoft.com/en-us/sql-server"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-          alt="mssql"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-          alt="mysql"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-          alt="nodejs"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-          alt="photoshop"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-          alt="php"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-          alt="postman"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-          alt="python"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="react"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-          alt="redux"
-          width="40"
-          height="40"
-        />
-        <div>
-        Working on skill in near future I will have it:
-        <div>
-          <img
-            src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-            alt="selenium"
-            width="30"
-          />
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-            alt="selenium"
-            width="30"
-          />
-        </div>
+    </div>
 
-        - 🔭 I’m currently working on my special website - 🌱 I’m currently
-        learning Java spring stack - 📫 How to reach me: email:
-        ifcodey@gmail.com - 🔭 linkedIn:
-        https://www.linkedin.com/in/ahmed-shalash-168482164/ - 💬 Ask me about
-        programming / Algorithm / Data structure
-      </a>
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-          alt="sass"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-          alt="selenium"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-          alt="spring"
-          width="40"
-          height="40"
-        />
-      </a>
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-          alt="tensorflow"
-          width="40"
-          height="40"
-        />
-      </a>
-    </p>
-
- 
 </html>
