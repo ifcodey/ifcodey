@@ -1,6 +1,5 @@
 ### My Github Profile 👋
 <html>
-  <body>
     <h1 align="center">Hi 👋, I'm Ahmed Shalash</h1>
     <h3 align="center">I am a full-stack developer 👋</h3>
 
@@ -441,5 +440,4 @@
         alt="ifcodey"
       />
     </p>
-  </body>
 </html>
