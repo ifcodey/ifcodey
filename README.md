@@ -27,7 +27,6 @@
         alt="ifcodey"
       />
     </p>
-
     <p>
       &nbsp;<img
         align="center"
@@ -35,6 +34,7 @@
         alt="ifcodey"
       />
     </p>
+    
     <h3 align="left">Connect with me:</h3>
     <p align="left">
       <span> [ </span
