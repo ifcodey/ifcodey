@@ -9,7 +9,7 @@
         alt="ifcodey"
       />
     </p>
-
+    <p>
     ✨ I am a self-taught Software Engineer who fell in love with coding! I
     enjoy learning new technologies. I came from a non-traditional background
     but I got in university a C language and Electronic material.However, I
@@ -23,7 +23,7 @@
     bootcamp to gain the opportunity to work in dev teams, collaborate with
     others, and to help other students, I learned 3 full stacks within 3 months
     (MERN, JAVA, Python), and some projects using different technologies.
-
+    </p>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
       <span> [ </span
