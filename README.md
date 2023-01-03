@@ -9,9 +9,9 @@ After years of trying to learn code, I decided to join Coding Dojo bootcamp to g
 Skills: JAVA, Python/Django/Flask, JS/Node JS / C# / C / HTML / CSS Bootstrap/MYSQL/POSTGRESQL
 <html>
           <div> 
-                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width = 30px/>
-                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = 30px/>
-                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  width = 30px/>
+                    
+                     
+                   
                      <span>___</span>
                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width = 30px/>
                      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  width = 30px/>
@@ -37,9 +37,10 @@ Skills: JAVA, Python/Django/Flask, JS/Node JS / C# / C / HTML / CSS Bootstrap/MY
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="selenium" width="30"/>
           </div>
           
-| First Header  | Second Header |
+| Skill Have it  | Future Skill |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width = 30px/>  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = 30px/>  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width = 30px/>  |   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  width = 30px/>
+          
 | Content Cell  | Content Cell  |
 </html>
           
