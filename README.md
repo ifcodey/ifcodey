@@ -2,12 +2,8 @@
 <html>
     <h1 align="center">Hi 👋, I'm Ahmed Shalash</h1>
     <h3 align="center">I am a full-stack developer 👋</h3>
-
     <p align="left">
-      <img
-        src="https://komarev.com/ghpvc/?username=ifcodey&label=Profile%20views&color=0e75b6&style=flat"
-        alt="ifcodey"
-      />
+      <img src="https://komarev.com/ghpvc/?username=ifcodey&label=Profile%20views&color=0e75b6&style=flat" alt="ifcodey"/>
     </p>
     <p>
     ✨ I am a self-taught Software Engineer who fell in love with coding! I
