@@ -10,7 +10,7 @@
     enjoy learning new technologies. I came from a non-traditional background
     but I got in university a C language and Electronic material.However, I
     studied Mechanical engineer in Birzeit University. I have experience in
-    business, and graphic design. My interest in computer science started when I
+    graphic design. My interest in computer science started when I
     was in 10th grade. actually, at this age, I started to learn a language like
     VB and C# but unfortunately, I had a difficult understanding an OOP.in fact,
     I got to learn how to code a website like a blog by using PHP but also I
