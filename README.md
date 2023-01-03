@@ -63,8 +63,14 @@
     Skills: JAVA, Python/Django/Flask, JS/Node JS / C# / C / HTML / CSS
     Bootstrap/MYSQL/POSTGRESQL
     </p>
-         <h3 align="left">Languages and Tools:</h3>
-    
+         <h3 align="left">Languages and Tools:</h3> 
+   <p></p>
+    | Command | Description |
+    | --- | --- |
+    | `git status` | List all *new or modified* files |
+    | `git diff` | Show file differences that **haven't been** staged |
+          <p></p>
+       
     | Frontend  | Title |
     | ------------- | ------------- |
     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
@@ -73,6 +79,7 @@
            width="30px"/>  | CSS  |
     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
            width="30px"/>  | Bootstrap  |
+    
     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
            width="30px"/>  |   |
     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
@@ -80,13 +87,7 @@
     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
            width="30px"/>  |   |
     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-           width="30px"/>  |   |   
-   <p></p>
-    | Command | Description |
-    | --- | --- |
-    | `git status` | List all *new or modified* files |
-    | `git diff` | Show file differences that **haven't been** staged |
-          <p></p>
+           width="30px"/>  |   |  
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
             width="30px"
