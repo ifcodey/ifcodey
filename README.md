@@ -45,7 +45,6 @@
       /></a>
       <span> ] </span>
     </p>
-
     Skills: JAVA, Python/Django/Flask, JS/Node JS / C# / C / HTML / CSS
     Bootstrap/MYSQL/POSTGRESQL
     <p align="left">
