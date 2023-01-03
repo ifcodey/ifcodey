@@ -17,7 +17,7 @@
     have a problem to understand as well a coding at that age.so I focused on my
     school After years of trying to learn code, I decided to join Coding Dojo
     bootcamp to gain the opportunity to work in dev teams, collaborate with
-    others, and to help other students, I learned 3 full stacks within 3 months
+    others, and to help other students, I learned 3 full stacks within 4 months
     (MERN, JAVA, Python), and some projects using different technologies.
     </p>
        <p>
