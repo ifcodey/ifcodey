@@ -61,8 +61,7 @@
     </p>
     <h3 align="left">Languages and Tools:</h3> 
     <p>
-    Skills: JAVA, Python/Django/Flask, JS/Node JS / C# / C / HTML / CSS
-    Bootstrap/MYSQL/POSTGRESQL
+    Skills From Coding Dojo : Python Stack | Java Stack | MERN Stack
     </p>
     <span align="left">
     <span><p>*FRONTEND*</p></span>
