@@ -37,7 +37,10 @@ Skills: JAVA, Python/Django/Flask, JS/Node JS / C# / C / HTML / CSS Bootstrap/MY
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="selenium" width="30"/>
           </div>
           
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 </html>
           
 
