@@ -48,7 +48,7 @@
       <span> ] </span>
       <span> [ </span>
       <a
-        href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-shalash-168482164/"
+        href=https://www.linkedin.com/in/ahmed-shalash-168482164/"
         target="blank"
         ><img
           align="center"
