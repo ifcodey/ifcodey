@@ -30,7 +30,7 @@
     <p>
       &nbsp;<img
         align="center"
-        src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifcodey&show_icons=true&theme=radical)"
+        src="https://github-readme-stats.vercel.app/api?username=ifcodey&show_icons=true&theme=radical"
         alt="ifcodey"
       />
     </p>
