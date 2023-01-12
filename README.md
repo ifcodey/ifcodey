@@ -30,7 +30,7 @@
     <p>
       &nbsp;<img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=ifcodey"
+        src="https://github-readme-stats.vercel.app/api?username=barooq23"
         alt="ifcodey"
       />
     </p>
