@@ -30,7 +30,7 @@
     <p>
       &nbsp;<img
         align="center"
-        src="https://github-readme-stats-ruby-one.vercel.app/api?username=ifcodey" alt="ifcodey"/>
+        src="https://github-readme-stats.vercel.app/api?username=ifcodey" alt="ifcodey"/>
     </p>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
